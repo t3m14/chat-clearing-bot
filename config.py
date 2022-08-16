@@ -1,0 +1,5 @@
+api_id = 14107984
+api_hash = '6507fadc1d76c1d8f3c0957690d9ec86'
+TOKEN = "5581305522:AAFS3AoSRg0ZNhUDVYKV3Lfst3wmXOGs91A"
+phone_number = '89292394343'
+admin_id = 486737202
